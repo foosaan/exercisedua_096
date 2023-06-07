@@ -55,7 +55,7 @@ public:
 		return 4 * a;
 	}
 };
-int main() { 	bidangDatar* b;
+int main() {	bidangDatar* b;
 	Lingkaran l;
 	Bujursangkar bs;
 
@@ -77,4 +77,4 @@ int main() { 	bidangDatar* b;
 	cout << "Keliling Bujursangkar: " << bujursangkarKeliling << endl;
 
 	return 0;
-}
+} 
